@@ -1,0 +1,27 @@
+{
+  "name": "vocabo",
+  "version": "1.0.0",
+  "description": "Vocabo chrome extantion backend server ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "Vocabo",
+    "Text-definition",
+    "OpenAI"
+  ],
+  "author": "Jubyayer Ahmed",
+  "license": "MIT",
+  "dependencies": {
+    "@google/genai": "^1.26.0",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10",
+    "prettier": "^3.6.2"
+  }
+}
