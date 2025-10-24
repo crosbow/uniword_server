@@ -1,7 +1,7 @@
 {
-  "name": "vocabo",
+  "name": "Uniword",
   "version": "1.0.0",
-  "description": "Vocabo chrome extantion backend server ",
+  "description": "Uniword chrome extantion backend server ",
   "main": "index.js",
   "type": "module",
   "scripts": {
